@@ -1,0 +1,15 @@
+#navbar-default-override {
+  background-color: white;
+  border-color: white;
+  letter-spacing: .5rem;
+  text-transform: uppercase;
+}
+
+.nav-bar-item:hover {
+  border-bottom: 2px solid gray;
+}
+
+img {
+  width: 100%;
+  margin: 1.66%;
+}
