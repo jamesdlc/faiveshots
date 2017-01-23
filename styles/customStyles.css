@@ -8,8 +8,10 @@
 .nav-bar-item:hover {
   border-bottom: 2px solid gray;
 }
+.image-container {
+  padding: .5%;
+}
 
 img {
   width: 100%;
-  margin: 1.66%;
 }
